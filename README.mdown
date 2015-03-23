@@ -1,0 +1,25 @@
+# latex-article-template #
+
+LaTeX template for articles. Includes the package and styles I use the most.
+
+## Usage ##
+
+1. Clone this repository with its new name:
+
+    ```shell
+    $ git clone https://github.com/jacquerie/latex-article-template.git new-article
+    ```
+
+2. Start working on the article:
+
+    ```shell
+    $ cd new-article && vim tex/article.tex
+    ```
+
+## Author ##
+
+Jacopo Notarstefano [(@Jaconotar)](https://twitter.com/Jaconotar)
+
+## License ##
+
+MIT
